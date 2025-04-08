@@ -7,3 +7,6 @@
 [submodule "Study-Materials/2024-05-03-NEXT-Dynamic-routing"]
 	path = Study-Materials/2024-05-03-NEXT-Dynamic-routing
 	url = https://github.com/Inna-B10/2024-05-03-NEXT-Dynamic-routing.git
+[submodule "Exercises/mega-collab-modul-s"]
+	path = Exercises/mega-collab-modul-s
+	url = https://github.com/VilloKodeHode/mega-collab-modul-s.git
